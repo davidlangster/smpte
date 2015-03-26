@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Convert name="Protocol">
+  <StartOffset hours="1" minutes="16" seconds="30"/>
+  <TimeSignature>4</TimeSignature>
+  <SampleRate>48000</SampleRate>
+  <Delay>0</Delay>
+  <SMPTE frames="30"/>
+  <BPM>130</BPM>
+  <Bars>
+    <Bar value="1" >Zero</Bar>
+    <Bar value="13">Intro</Bar>
+    <Bar value="21">Beats</Bar>
+    <Bar value="29">PreVerseA</Bar>
+    <Bar value="37">VerseA</Bar>
+    <Bar value="53">ChorusA</Bar>
+    <Bar value="61">PreVerseB</Bar>
+    <Bar value="69">VerseB</Bar>
+    <Bar value="85">ChorusB</Bar>
+    <Bar value="93">Bridge</Bar>
+    <Bar value="101">Outro</Bar>
+   </Bars>
+</Convert>

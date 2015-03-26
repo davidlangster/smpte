@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Convert name="InFocus">
+  <StartOffset hours="1" minutes="16" seconds="30"/>
+  <TimeSignature>4</TimeSignature>
+  <SampleRate>48000</SampleRate>
+  <Delay>0</Delay>
+  <SMPTE frames="30"/>
+  <BPM>130</BPM>
+  <Bars>
+    <Bar value="1">Zero</Bar>
+    <Bar value="5">Intro</Bar>
+    <Bar value="9">Loop</Bar>
+   </Bars>
+</Convert>

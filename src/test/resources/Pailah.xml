@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Convert name="Pailah">
+  <StartOffset hours="1" minutes="16" seconds="30"/>
+  <TimeSignature>4</TimeSignature>
+  <SampleRate>48000</SampleRate>
+  <Delay>4726</Delay>
+  <SMPTE frames="30"/>
+  <BPM>120</BPM>
+  <Bars>
+    <Bar value="1">Zero</Bar>
+   </Bars>
+</Convert>
