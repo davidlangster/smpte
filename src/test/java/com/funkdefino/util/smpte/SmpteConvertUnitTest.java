@@ -1,7 +1,7 @@
 package com.funkdefino.util.smpte;
 
-import com.differitas.common.unittest.CTestCase;
-import com.differitas.common.util.xml.*;
+import com.funkdefino.common.unittest.CTestCase;
+import com.funkdefino.common.util.xml.*;
 import junit.framework.Test;
 
 /**

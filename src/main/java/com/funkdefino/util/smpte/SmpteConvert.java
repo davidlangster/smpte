@@ -1,7 +1,7 @@
 package com.funkdefino.util.smpte;
 
-import com.differitas.common.util.UtilException;
-import com.differitas.common.util.xml.*;
+import com.funkdefino.common.util.UtilException;
+import com.funkdefino.common.util.xml.*;
 
 import java.io.File;
 import java.util.*;
